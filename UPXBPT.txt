@@ -1,5 +1,5 @@
-Tiên Du:sv.kpah2.me:19129:0:so_0:1:1,
-Phong Châu:sv.kpah2.me:19131:0:so_1:2:1,
+PC:sv.kpah2.me:19131:0:so_0:1:1,
+TD:sv.kpah2.me:19129:0:so_1:1:1,
 Huyền Thoại:sv.huyenthoaikpah.com:19129:0:so_2:1:0,
 Vô Song:103.149.86.220:19129:0:so_3:1:1,
 HoiUCKPAH:14.225.209.121:19129:0:so_4:1:1,
