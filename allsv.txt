@@ -1,5 +1,3 @@
-Baby:14.225.211.229:19129:0,
-Vô Song:103.149.86.220:19129:0,
 Huyền Thoại:sv.huyenthoaikpah.com:19129:0,
 TruyenKy:tk.truyenkykpah.com:19129:0,
 KPAHVIP:221.132.33.149:19129:0,
@@ -23,6 +21,7 @@ Kiếm Khách 2:112.213.94.5:12345:1,
 Kiếm Khách 3:112.213.94.5:12345:2,
 Kiếm Khách 4:112.213.94.5:12345:3,
 Kiếm Khách 5(new):112.213.94.5:12345:5
+
 
 
 
