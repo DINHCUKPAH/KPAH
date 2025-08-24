@@ -1,3 +1,4 @@
+KPAH.Win:ip.kpah.win:19129:0,
 Thần Thoại:14.225.203.190:19129:0,
 Ngũ Đế 2:sv.ngude2.me:19129:0,
 Huyền Thoại:sv.huyenthoaikpah.com:19129:0,
@@ -23,5 +24,6 @@ Kiếm Khách 2:112.213.94.5:12345:1,
 Kiếm Khách 3:112.213.94.5:12345:2,
 Kiếm Khách 4:112.213.94.5:12345:3,
 Kiếm Khách 5(new):112.213.94.5:12345:5
+
 
 
