@@ -5,6 +5,8 @@ Vô Song:103.149.86.220:19129:0:so_3:1:1,
 HoiUCKPAH:14.225.209.121:19129:0:so_4:1:1,
 TruyenKy:tk.truyenkykpah.com:19129:0:so_5:0:0,
 Tiên Du:sv.kpah2.me:19129:0:so_6:0:0,
-Phong Châu:sv.kpah2.me:19131:0:so_7:0:0
+Phong Châu:sv.kpah2.me:19131:0:so_7:0:0,
+KPAHVN sv2:14.225.207.172:19130:0:so_8:0:0
+
 
 
