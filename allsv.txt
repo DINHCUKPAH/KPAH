@@ -2,15 +2,10 @@ Nguyễn Đình Cư: 14.225.207.172:19130:0,
 KPAH.Win:ip.kpah.win:19129:0,
 KPAHVN sv2:14.225.207.172:19130:0,
 Thần Thoại:14.225.203.190:19129:0,
-Ngũ Đế 2:sv.ngude2.me:19129:0,
 Huyền Thoại:sv.huyenthoaikpah.com:19129:0,
 TruyenKy:tk.truyenkykpah.com:19129:0,
 KPAHVIP:221.132.33.149:19129:0,
-HuyenVu.Top:221.132.33.178:19129:0,
-Tu Tiên:103.90.225.144:19129:0,
-KPAHACE:14.225.212.164:19129:0,
 Hùng Vương:14.225.207.172:19129:0,
-Vô Song:103.149.86.220:19129:0,
 HoiUcKPAH:14.225.209.121:19129:0,
 Tống Kim:14.225.198.46:19130:0,
 SPECIAL:gate.kpahz.pro:19131:0,
@@ -26,6 +21,7 @@ Kiếm Khách 2:112.213.94.5:12345:1,
 Kiếm Khách 3:112.213.94.5:12345:2,
 Kiếm Khách 4:112.213.94.5:12345:3,
 Kiếm Khách 5(new):112.213.94.5:12345:5
+
 
 
 
