@@ -7,9 +7,10 @@ HuyenThoai:sv.huyenthoaikpah.com:19129:0,
 TruyenKy:tk.truyenkykpah.com:19129:0,
 KPAHVIP:221.132.33.149:19129:0,
 KPAHVNS1:14.225.207.172:19129:0,
-TienDu:sv.kpah2.me:19129:0,
-Nguyễn Đình Cư:14.225.207.172:19130:0,
-Zalo 0388430525: 14.225.207.172:19130:0
+TienDuKP2:sv.kpah2.me:19129:0,
+Đình Cư:14.225.207.172:19130:0,
+LH:0388430525: 14.225.207.172:19130:0
+
 
 
 
