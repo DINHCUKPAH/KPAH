@@ -1,17 +1,17 @@
-KinhDoKP2:45.119.215.14:19129:0,
-KPAHNEW:sv.kpahnew.com:19129:0,
+Kinh Đô:sv2.kpah2.me:19129:0,
+KPAH New:sv.kpahnew.com:19129:0,
 KPAHVNS2:14.225.207.172:19130:0,
-TruyenKy:tk.truyenkykpah.com:19129:0,
-KinhMon8X:574.cddos.net:19129:0,
-KPAHWin:ip.kpah.win:19129:0,
-KPAHBaby:14.225.211.229:19129:0,
-HuyenThoai:sv.huyenthoaikpah.com:19129:0,
-KPAHVIP:221.132.33.149:19129:0,
-KPAHVNS1:14.225.207.172:19129:0,
-TienDuKP2:sv.kpah2.me:19129:0,
+Truyền Kỳ:tk.truyenkykpah.com:19129:0,
+Kinh Môn 8x:574.cddos.net:19129:0,
+KPAH Win:ip.kpah.win:19129:0,
+KPAH Baby:14.225.211.229:19129:0,
+Huyền Thoại:sv.huyenthoaikpah.com:19129:0,
+KPAH VIP:221.132.33.149:19129:0,
 Đình Cư:14.225.207.172:19130:0,
+Tiên Du:sv.kpah2.me:19129:0,
 Huyền Vũ:221.132.33.178:19129:0,
 Zl 0388430525: 14.225.207.172:19130:0
+
 
 
 
