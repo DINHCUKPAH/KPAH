@@ -1,3 +1,0 @@
-KPAHVNS2:14.225.207.172:19130:0:hoanb:31:11,
-TD:sv.kpah2.me:19129:0:hoanb:91:61,
-PC:sv.kpah2.me:19131:0:ho1an:91:61
