@@ -1,3 +1,4 @@
+NQSHVN:ip.nqshvn.com:19129:0,
 TanKPAH:516.cddos.net:19129:0,
 Thành Đô:64.176.82.87:19129:0,
 KPAHVNS2:14.225.207.172:19130:0,
